@@ -1,5 +1,5 @@
 Para executar via prompt
-java -jar <*.jar>
+java -jar rest-produto-1.0.0-jar-with-dependencies.jar
 
 para chamar o Rest pode ser usado o POSTMAN chamando a url
 http://localhost:8080/labs/rest/produto/agrupar no metodo POST o playload deve ser colocado no BODY.
